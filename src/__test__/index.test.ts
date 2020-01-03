@@ -1,7 +1,7 @@
-import { addLetters } from "../index";
+import { newFunction } from "../index";
 
-describe('Alphanumeric', () => {
-  test('Debe devolver "z" si le entra solo una z', () => {
-    expect(addLetters("z")).toBe("z")
+describe('Group1', () => {
+  test('Should ...', () => {
+    expect(newFunction()).toBe()
   });
 });
