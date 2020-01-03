@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@babel/preset-env": "^7.7.7",
+    "@babel/preset-typescript": "^7.7.7",
+    "@types/jest": "^24.0.25",
+    "babel": "^6.23.0",
+    "jest": "^24.9.0",
+    "typescript": "^3.7.4"
+  },
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "name": "NocheKatas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ruben Zagon <ruben.zagon@gmail.com>",
+  "license": "MIT"
+}
